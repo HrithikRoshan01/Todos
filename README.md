@@ -13,12 +13,11 @@ d) Redux useDispatch hook is used to dispatch actions for adding and removing to
 a) Styling is applied using CSS modules and Tailwind CSS.                                                                                                                                                            
 b) CSS files (App.css, AddTodo.css, Todo.css) contain styling rules for the respective components.                                                                                                                   
 
-4) Functionality:
+4) Functionality:                                                                                                                                                                                            
 a) Users can add new todo items using the input field in the AddTodo component.                                                                                                                                   
 b) Added todo items are displayed dynamically in the Todo component.                                                                                                                                             
 c) Users can remove todo items by clicking on a delete button associated with each item.                                                                                                                               
 
-5) Repository Structure:                                                                                                                                                                                              
-a) The code is organized into components, Redux slice files, and CSS files.
+5) Repository Structure:                                                                                                                                                                                              a) The code is organized into components, Redux slice files, and CSS files.                                                                                                                                            
 c) Each component has its own folder containing the component file and its corresponding CSS file.                                                                                                                        
  
