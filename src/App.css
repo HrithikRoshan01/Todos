@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #72A0C1;
+}
+
+
+#root {
+   margin: 0px;
+
+  text-align: center;
+}
+
+
+
+
+/* Define the animation */
