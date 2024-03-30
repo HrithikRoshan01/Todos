@@ -1,7 +1,7 @@
 1) Components:
 
-a) The AddTodo component allows users to add new todo items.
-b) The Todo component displays the list of todo items.
+a) The AddTodo component allows users to add new todo items.                                                                                                                                                        
+b) The Todo component displays the list of todo items.                                                                                                                                                           
 c) The App component serves as the main entry point for the application, rendering the title, the AddTodo component, and the Todo component.
   
 2) Redux Integration:
