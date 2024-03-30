@@ -5,13 +5,13 @@ c) The App component serves as the main entry point for the application, renderi
 
 2) Redux Integration:                                                                                                                                                                             
 a) Redux is used for state management.                                                                                                                                                                     
-b) The todoSlice file defines a Redux slice with actions and reducers for managing todo items.
-c) Redux useSelector hook is used in the App component to retrieve data from the Redux store state.                                                                                                                   
+b) The todoSlice file defines a Redux slice with actions and reducers for managing todo items.                                                                                                                      
+c) Redux useSelector hook is used in the App component to retrieve data from the Redux store state.                                                                                                                  
 d) Redux useDispatch hook is used to dispatch actions for adding and removing todo items.
 
 4) Styling:                                                                                  
-1) Styling is applied using CSS modules and Tailwind CSS.                                                                                                                                                             
-2) CSS files (App.css, AddTodo.css, Todo.css) contain styling rules for the respective components.                                                                                                                   
+a) Styling is applied using CSS modules and Tailwind CSS.                                                                                                                                                            
+b) CSS files (App.css, AddTodo.css, Todo.css) contain styling rules for the respective components.                                                                                                                   
 
 4) Functionality:
 a) Users can add new todo items using the input field in the AddTodo component.                                                                                                                                   
